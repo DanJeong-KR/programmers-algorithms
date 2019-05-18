@@ -20,7 +20,7 @@
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | isdigit, len() in (,,) | [py](lv1/문자열다루기기본.py)|
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) |  | [py](lv1/서울에서김서방찾기.py)|
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) |  | [py](lv1/소수찾기.py)|
-
+| [수박수박수박수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922) |  | [py](lv1/수박수박수박수박수박수.py)|
 
 ## Level 2
 

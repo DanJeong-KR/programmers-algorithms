@@ -36,6 +36,7 @@
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |  | [py](lv1/평균구하기.py) |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |  | [py](lv1/하샤드수.py) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |  | [py](lv1/핸드폰번호가리기.py) |
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |  | [py](lv1/행렬의덧셈.py) |
 
 ## Level 2
 

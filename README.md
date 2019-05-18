@@ -37,6 +37,7 @@
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |  | [py](lv1/하샤드수.py) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |  | [py](lv1/핸드폰번호가리기.py) |
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |  | [py](lv1/행렬의덧셈.py) |
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |  | [py](lv1/x만큼간격이있는n개의숫자.py) |
 
 ## Level 2
 

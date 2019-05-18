@@ -27,6 +27,7 @@
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |  | [py](lv1/이상한문자만들기.py) |
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) |  | [py](lv1/자릿수더하기.py) |
 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |  | [py](lv1/자연수뒤집어배열로만들기.py) |
+| [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |  | [py](lv1/정수내림차순으로배치하기.py) |
 
 ## Level 2
 

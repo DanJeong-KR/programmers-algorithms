@@ -9,6 +9,7 @@
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완전탐색: enumerate, max | [py](lv1/모의고사.py)|
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 정렬: list, map, lambda, sorted | [py](lv1/K번째수.py)|
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 탐욕법 | [py](lv1/체육복.py)|
+| [가운데글자가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |  | [py](lv1/가운데글자가져오기.py)|
 
 ## Level 2
 

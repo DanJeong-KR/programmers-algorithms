@@ -32,6 +32,7 @@
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |  | [py](lv1/제일작은수제거하기.py) |
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |  | [py](lv1/짝수와홀수.py) |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |  | [py](lv1/최대공약수와최소공배수.py) |
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |  | [py](lv1/콜라츠추측.py) |
 
 ## Level 2
 

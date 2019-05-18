@@ -9,8 +9,9 @@
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완전탐색: enumerate, max | [py](lv1/모의고사.py)|
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 정렬: list, map, lambda, sorted | [py](lv1/K번째수.py)|
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 탐욕법 | [py](lv1/체육복.py)|
-| [가운데글자가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |  | [py](lv1/가운데글자가져오기.py)|
+| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |  | [py](lv1/가운데글자가져오기.py)|
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [0, 31, 28 ...], [1월1일 요일, ...] | [py](lv1/2016년.py)|
+| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) |  | [py](lv1/같은숫자는싫어.py)|
 
 ## Level 2
 

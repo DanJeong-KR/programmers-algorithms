@@ -18,12 +18,12 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) |  | [py](lv1/문자열내p와y의개수.py) |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) |  | [py](lv1/문자열내림차순으로배치하기.py) |
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | isdigit, len() in (,,) | [py](lv1/문자열다루기기본.py) |
-| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) |  | [py](lv1/서울에서김서방찾기.py) |
+| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | format, index | [py](lv1/서울에서김서방찾기.py) |
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) |  | [py](lv1/소수찾기.py) |
 | [수박수박수박수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922) |  | [py](lv1/수박수박수박수박수박수.py) |
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) |  | [py](lv1/문자열을정수로바꾸기.py) |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |  | [py](lv1/시저암호.py) |
-| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |  | [py](lv1/약수의합.py) |
+| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | 반쪽만 검사 | [py](lv1/약수의합.py) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |  | [py](lv1/이상한문자만들기.py) |
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) |  | [py](lv1/자릿수더하기.py) |
 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |  | [py](lv1/자연수뒤집어배열로만들기.py) |

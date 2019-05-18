@@ -25,6 +25,8 @@
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |  | [py](lv1/시저암호.py) |
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |  | [py](lv1/약수의합.py) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |  | [py](lv1/이상한문자만들기.py) |
+| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) |  | [py](lv1/자릿수더하기.py) |
+| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |  | [py](lv1/자연수뒤집어배열로만들기.py) |
 
 ## Level 2
 

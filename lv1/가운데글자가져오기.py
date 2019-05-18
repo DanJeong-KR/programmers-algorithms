@@ -12,14 +12,3 @@ def solution2(s):
     else:
         answer = s[length//2]
     return answer
-
-
-(5-1)/2 = 2
-5/2 = 2 + 1 = 3
-
-[2:3]
-
-4-1 / 2 = 1
-4/2 = 2 + 1 = 3
-
-[1:3]

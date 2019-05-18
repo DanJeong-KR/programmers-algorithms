@@ -10,11 +10,11 @@ def solution(answers):
     ]
 
     for n, c in enumerate(answers):
-        if c == pattern[0][n%5]:
+        if c == pattern[0][n % 5]:
             score[0] += 1
-        if c == pattern[1][n%8]:
+        if c == pattern[1][n % 8]:
             score[1] += 1
-        if c == pattern[2][n%10]:
+        if c == pattern[2][n % 10]:
             score[2] += 1
 
     for n, c in enumerate(score):

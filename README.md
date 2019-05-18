@@ -13,6 +13,8 @@
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [0, 31, 28 ...], [1월1일 요일, ...] | [py](lv1/2016년.py)|
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) |  | [py](lv1/같은숫자는싫어.py)|
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) |  | [py](lv1/나누어떨어지는숫자배열.py)|
+| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) |  | [py](lv1/두정수사이의합.py)|
+
 
 ## Level 2
 

@@ -17,7 +17,8 @@
 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) |  | [py](lv1/문자열내마음대로정렬하기.py)|
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) |  | [py](lv1/문자열내p와y의개수.py)|
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) |  | [py](lv1/문자열내림차순으로배치하기.py)|
-| [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) |  | [py](lv1/문자열다루기기본.py)|
+| [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | isdigit, len() in (,,) | [py](lv1/문자열다루기기본.py)|
+| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) |  | [py](lv1/서울에서김서방찾기.py)|
 
 ## Level 2
 

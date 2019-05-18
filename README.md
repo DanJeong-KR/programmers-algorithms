@@ -23,6 +23,7 @@
 | [수박수박수박수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922) |  | [py](lv1/수박수박수박수박수박수.py)|
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) |  | [py](lv1/문자열을정수로바꾸기.py)|
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |  | [py](lv1/시저암호.py)|
+| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |  | [py](lv1/약수의합.py)|
 
 ## Level 2
 

@@ -33,6 +33,8 @@
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |  | [py](lv1/짝수와홀수.py) |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |  | [py](lv1/최대공약수와최소공배수.py) |
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |  | [py](lv1/콜라츠추측.py) |
+| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |  | [py](lv1/평균구하기.py) |
+| [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |  | [py](lv1/하샤드수.py) |
 
 ## Level 2
 

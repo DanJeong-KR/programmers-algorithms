@@ -30,6 +30,7 @@
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |  | [py](lv1/정수내림차순으로배치하기.py) |
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) |  | [py](lv1/정수제곱근판별.py) |
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |  | [py](lv1/제일작은수제거하기.py) |
+| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |  | [py](lv1/짝수와홀수.py) |
 
 ## Level 2
 

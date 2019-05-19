@@ -63,7 +63,7 @@
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |  | [py](lv2/더맵게.py) |
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 탐욕법 문제는 대충 풀면 답이 나온다 | [py](lv2/조이스틱.py) |
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | functools.cmp_to_key | [py](lv2/가장큰수.py) |
-| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
-| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
-| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |  | [py](lv2/H-Index.py) |
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |  | [py](lv2/구명보트.py) |
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) |  | [py](lv2/다음큰숫자.py) |
 | [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |

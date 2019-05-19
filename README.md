@@ -50,4 +50,5 @@
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | 스택 | [py](lv2/탑.py) |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | 어려움 | [py](lv2/124나라의숫자.py) |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택 탑만 사용 | [py](lv2/기능개발.py) |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |  | [py](lv2/다리를지나는트럭.py) |
 | [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |

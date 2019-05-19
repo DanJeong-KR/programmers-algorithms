@@ -48,3 +48,4 @@
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택/큐: O(N^2) | [py](lv2/주식가격.py) |
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) |  | [py](lv2/스킬트리.py) |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | 스택 | [py](lv2/탑.py) |
+| [124나라의숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | 어려움 | [py](lv2/124나라의숫자.py) |

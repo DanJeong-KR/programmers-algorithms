@@ -66,4 +66,5 @@
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |  | [py](lv2/H-Index.py) |
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |  | [py](lv2/구명보트.py) |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) |  | [py](lv2/다음큰숫자.py) |
+| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) |  | [py](lv2/JadenCase문자열만들기.py) |
 | [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |

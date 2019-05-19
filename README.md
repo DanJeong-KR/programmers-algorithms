@@ -51,4 +51,19 @@
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | 어려움 | [py](lv2/124나라의숫자.py) |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택 탑만 사용 | [py](lv2/기능개발.py) |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |  | [py](lv2/다리를지나는트럭.py) |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | X | [py](lv2/프린터.py) |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | X | [py](lv2/쇠막대기.py) |
+| [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | X | [py](lv2/큰수만들기.py) |
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | X | [py](lv2/소수찾기.py) |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | X | [py](lv2/전화번호목록.py) |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | X | [py](lv2/위장.py) |
+| [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841) | X | [py](lv2/숫자야구.py) |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | X | [py](lv2/카펫.py) |
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | X | [py](lv2/타겟넘버.py) |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |  | [py](lv2/더맵게.py) |
+| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
+| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
+| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
+| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
+| [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
 | [](https://programmers.co.kr/learn/courses/30/lessons/) |  | [py](lv2/.py) |
